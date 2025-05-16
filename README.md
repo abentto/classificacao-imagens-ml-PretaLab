@@ -1,1 +1,1 @@
-# classificacao-imagens-ml-PretaLab
+# Classificação_Imagem_ML_PretaLab
